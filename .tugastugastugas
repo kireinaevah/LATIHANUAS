@@ -87,3 +87,4 @@ cout<<"Hasil Pengurutan: \n";
 tampilkan_larik(data,jum_data);
 getch();
 }
+maaf terlambat karena jaringan error
